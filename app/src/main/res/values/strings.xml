@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">maptest</string>
+    <string name="title_activity_maps">maptest</string>
+    <string name="title_active_maps">ExgoogleMap01</string>
+</resources>
